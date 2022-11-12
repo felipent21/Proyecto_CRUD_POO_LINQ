@@ -1,0 +1,35 @@
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.exe
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.deps.json
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.runtimeconfig.json
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.runtimeconfig.dev.json
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.dll
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.pdb
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.csproj.AssemblyReference.cache
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.AssemblyInfoInputs.cache
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.AssemblyInfo.cs
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.csproj.CoreCompileInputs.cache
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.dll
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.pdb
+C:\Users\afnunest\Documents\Semillero_SIESA\Sem_8\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.genruntimeconfig.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.csproj.AssemblyReference.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.AssemblyInfoInputs.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.AssemblyInfo.cs
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.csproj.CoreCompileInputs.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.dll
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.pdb
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.exe
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.deps.json
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.runtimeconfig.json
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.runtimeconfig.dev.json
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.dll
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\bin\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.pdb
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.csproj.AssemblyReference.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.AssemblyInfoInputs.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.AssemblyInfo.cs
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.csproj.CoreCompileInputs.cache
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.dll
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.pdb
+D:\Clase_11_Nov_2022\PROYECTOCRUDPOOLINQ - copia\obj\Debug\netcoreapp3.1\PROYECTOCRUDPOOLINQ.genruntimeconfig.cache
